@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResidentAdvisorEventFinder
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/resident_advisor_event_finder`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -41,3 +42,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the ResidentAdvisorEventFinder project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'njpowers7915'/resident_advisor_event_finder/blob/master/CODE_OF_CONDUCT.md).
+=======
+# resident_advisor_event_finder
+The app finds electronic music events from the "Resident Advisor" website by state.
+>>>>>>> e2392b8329084e5fef361d72e266b44ff87ea643

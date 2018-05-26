@@ -1,2 +1,5 @@
 #!/usr/bin/env ruby
 
+require './lib/resident_advisor_event_finder'
+
+ResidentAdvisorEventFinder::CLI.new.call
